@@ -1746,11 +1746,6 @@
             "total_votes": 23
         },
         {
-            "match": "Round: Character_A vs Character_B",
-            "results": "Character_A (0.0%) vs Character_B (0.0%)",
-            "total_votes": 1
-        },
-        {
             "match": "Round 1 Part 1: Kurisu Makise vs Kazuki Kazami",
             "results": "Kurisu Makise (67.9%) vs Kazuki Kazami (32.1%)",
             "total_votes": 28
@@ -2802,28 +2797,28 @@
         },
         {
             "match": "Finals: Kurisu Makise vs C.C.",
-            "results": "Kurisu Makise (45.5%) vs C.C. (54.5%)",
-            "total_votes": 22
+            "results": "Kurisu Makise (43.5%) vs C.C. (56.5%)",
+            "total_votes": 23
         },
         {
             "match": "Finals: Saeko Busujima vs Deedlit",
-            "results": "Saeko Busujima (45.0%) vs Deedlit (55.0%)",
-            "total_votes": 20
+            "results": "Saeko Busujima (42.9%) vs Deedlit (57.1%)",
+            "total_votes": 21
         },
         {
             "match": "Queen Finals: Yor Forger vs C.C.",
-            "results": "Yor Forger (37.5%) vs C.C. (62.5%)",
-            "total_votes": 16
+            "results": "Yor Forger (35.3%) vs C.C. (64.7%)",
+            "total_votes": 17
         },
         {
             "match": "Queen Finals: Hitagi Senjougahara vs Kurisu Makise",
-            "results": "Hitagi Senjougahara (37.5%) vs Kurisu Makise (62.5%)",
-            "total_votes": 16
+            "results": "Hitagi Senjougahara (41.2%) vs Kurisu Makise (58.8%)",
+            "total_votes": 17
         },
         {
             "match": "Queen Finals: Maomao vs Deedlit",
-            "results": "Maomao (46.7%) vs Deedlit (53.3%)",
-            "total_votes": 15
+            "results": "Maomao (43.8%) vs Deedlit (56.2%)",
+            "total_votes": 16
         }
     ],
     "characters": [
@@ -2938,14 +2933,14 @@
             "votes_received": 48
         },
         {
-            "character": "Saeko Busujima",
-            "vote_rate": "59.9%",
-            "votes_received": 208
-        },
-        {
             "character": "Saber",
             "vote_rate": "59.8%",
             "votes_received": 153
+        },
+        {
+            "character": "Saeko Busujima",
+            "vote_rate": "59.8%",
+            "votes_received": 208
         },
         {
             "character": "Lucy Heartfilia",
@@ -2963,14 +2958,14 @@
             "votes_received": 22
         },
         {
-            "character": "Kurisu Makise",
-            "vote_rate": "59.3%",
-            "votes_received": 275
-        },
-        {
             "character": "Akiko Yosano",
             "vote_rate": "59.1%",
             "votes_received": 13
+        },
+        {
+            "character": "Kurisu Makise",
+            "vote_rate": "59.0%",
+            "votes_received": 275
         },
         {
             "character": "Kurumi Tokisaki",
@@ -2981,6 +2976,11 @@
             "character": "Kei Karuizawa",
             "vote_rate": "58.9%",
             "votes_received": 33
+        },
+        {
+            "character": "C.C.",
+            "vote_rate": "58.7%",
+            "votes_received": 186
         },
         {
             "character": "Shinobu Wakamiya",
@@ -3001,11 +3001,6 @@
             "character": "Tear Grants",
             "vote_rate": "58.5%",
             "votes_received": 31
-        },
-        {
-            "character": "C.C.",
-            "vote_rate": "58.4%",
-            "votes_received": 184
         },
         {
             "character": "Revy",
@@ -3063,11 +3058,6 @@
             "votes_received": 12
         },
         {
-            "character": "Maomao",
-            "vote_rate": "56.9%",
-            "votes_received": 165
-        },
-        {
             "character": "Dark Magician Girl",
             "vote_rate": "56.9%",
             "votes_received": 33
@@ -3096,6 +3086,11 @@
             "character": "Misa Amane",
             "vote_rate": "56.8%",
             "votes_received": 46
+        },
+        {
+            "character": "Maomao",
+            "vote_rate": "56.7%",
+            "votes_received": 165
         },
         {
             "character": "Motoko Kusanagi",
@@ -3173,9 +3168,9 @@
             "votes_received": 106
         },
         {
-            "character": "Yor Forger",
-            "vote_rate": "55.1%",
-            "votes_received": 190
+            "character": "Deedlit",
+            "vote_rate": "55.2%",
+            "votes_received": 91
         },
         {
             "character": "Mary Saotome",
@@ -3186,6 +3181,11 @@
             "character": "Sabrina",
             "vote_rate": "55.0%",
             "votes_received": 33
+        },
+        {
+            "character": "Yor Forger",
+            "vote_rate": "54.9%",
+            "votes_received": 190
         },
         {
             "character": "Minako Aino",
@@ -3211,11 +3211,6 @@
             "character": "Fujiko Mine",
             "vote_rate": "54.7%",
             "votes_received": 105
-        },
-        {
-            "character": "Deedlit",
-            "vote_rate": "54.6%",
-            "votes_received": 89
         },
         {
             "character": "Faye Valentine",
@@ -3308,6 +3303,11 @@
             "votes_received": 33
         },
         {
+            "character": "Hitagi Senjougahara",
+            "vote_rate": "53.1%",
+            "votes_received": 197
+        },
+        {
             "character": "Yuno Gasai",
             "vote_rate": "53.1%",
             "votes_received": 43
@@ -3316,11 +3316,6 @@
             "character": "Chane Laforet",
             "vote_rate": "53.1%",
             "votes_received": 26
-        },
-        {
-            "character": "Hitagi Senjougahara",
-            "vote_rate": "53.0%",
-            "votes_received": 196
         },
         {
             "character": "Cheza",
@@ -4851,16 +4846,6 @@
             "character": "Ilulu",
             "vote_rate": "5.3%",
             "votes_received": 1
-        },
-        {
-            "character": "Character_A",
-            "vote_rate": "0.0%",
-            "votes_received": 0
-        },
-        {
-            "character": "Character_B",
-            "vote_rate": "0.0%",
-            "votes_received": 0
         }
     ],
     "user_loyalty": {
@@ -55344,18 +55329,6 @@
                 "times_voted": "1/1"
             }
         ],
-        "Username": [
-            {
-                "character": "Character_A",
-                "loyalty": "0.0%",
-                "times_voted": "0/1"
-            },
-            {
-                "character": "Character_B",
-                "loyalty": "0.0%",
-                "times_voted": "0/1"
-            }
-        ],
         "Mohammdnnn79": [
             {
                 "character": "Kurisu Makise",
@@ -65630,6 +65603,43 @@
                 "character": "Maomao",
                 "loyalty": "100.0%",
                 "times_voted": "1/1"
+            }
+        ],
+        "CC": [
+            {
+                "character": "Kurisu Makise",
+                "loyalty": "0.0%",
+                "times_voted": "0/2"
+            },
+            {
+                "character": "C.C.",
+                "loyalty": "100.0%",
+                "times_voted": "2/2"
+            },
+            {
+                "character": "Saeko Busujima",
+                "loyalty": "0.0%",
+                "times_voted": "0/1"
+            },
+            {
+                "character": "Deedlit",
+                "loyalty": "100.0%",
+                "times_voted": "2/2"
+            },
+            {
+                "character": "Yor Forger",
+                "loyalty": "0.0%",
+                "times_voted": "0/1"
+            },
+            {
+                "character": "Hitagi Senjougahara",
+                "loyalty": "100.0%",
+                "times_voted": "1/1"
+            },
+            {
+                "character": "Maomao",
+                "loyalty": "0.0%",
+                "times_voted": "0/1"
             }
         ],
         "HimmelMyLove": [
