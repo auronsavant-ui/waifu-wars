@@ -1,4 +1,1101 @@
 {
+    "matchups": [
+        {
+            "match": "Round 1: Re-l Mayer vs Formidable",
+            "results": "Re-l Mayer (44.4%) vs Formidable (55.6%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round 1: Alina Clover vs Miku Nakano",
+            "results": "Alina Clover (37.5%) vs Miku Nakano (62.5%)",
+            "total_votes": 16
+        },
+        {
+            "match": "Round 1: Momo Belia Deviluke vs Kurisu Makise",
+            "results": "Momo Belia Deviluke (27.8%) vs Kurisu Makise (72.2%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round 1: Faye Valentine vs Nepgear",
+            "results": "Faye Valentine (77.8%) vs Nepgear (22.2%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round 1: Sylvia Sherwood vs Cornelia li Britannia",
+            "results": "Sylvia Sherwood (13.3%) vs Cornelia li Britannia (86.7%)",
+            "total_votes": 15
+        },
+        {
+            "match": "Round 1: Hayase Nagatoro vs Ai Hoshino",
+            "results": "Hayase Nagatoro (33.3%) vs Ai Hoshino (66.7%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round of 64: Robin Nico vs Formidable",
+            "results": "Robin Nico (55.6%) vs Formidable (44.4%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round of 64: Emilia vs Nadeko Sengoku",
+            "results": "Emilia (52.9%) vs Nadeko Sengoku (47.1%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 64: Rem Ayanokouji vs Rin Tohsaka",
+            "results": "Rem Ayanokouji (26.7%) vs Rin Tohsaka (73.3%)",
+            "total_votes": 15
+        },
+        {
+            "match": "Round of 64: Kobayashi vs C.C.",
+            "results": "Kobayashi (23.5%) vs C.C. (76.5%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 64: Ai Hayasaka vs Yukino Yukinoshita",
+            "results": "Ai Hayasaka (62.5%) vs Yukino Yukinoshita (37.5%)",
+            "total_votes": 16
+        },
+        {
+            "match": "Round of 64: Fighter vs Yuuko Ichihara",
+            "results": "Fighter (45.5%) vs Yuuko Ichihara (54.5%)",
+            "total_votes": 11
+        },
+        {
+            "match": "Round of 64: Yor Forger vs Madoka Kaname",
+            "results": "Yor Forger (68.8%) vs Madoka Kaname (31.2%)",
+            "total_votes": 16
+        },
+        {
+            "match": "Round of 64: Minako Aino vs Hakari Hanazono",
+            "results": "Minako Aino (68.8%) vs Hakari Hanazono (31.2%)",
+            "total_votes": 16
+        },
+        {
+            "match": "Round of 64: Anna Yanami vs Miku Nakano",
+            "results": "Anna Yanami (60.0%) vs Miku Nakano (40.0%)",
+            "total_votes": 15
+        },
+        {
+            "match": "Round of 64: Stocking Anarchy vs Yoruichi Shihouin",
+            "results": "Stocking Anarchy (41.2%) vs Yoruichi Shihouin (58.8%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 64: Makima vs Nino Nakano",
+            "results": "Makima (58.8%) vs Nino Nakano (41.2%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 64: Chiquita vs Esdeath",
+            "results": "Chiquita (14.3%) vs Esdeath (85.7%)",
+            "total_votes": 14
+        },
+        {
+            "match": "Round of 64: Biscuit Krueger vs Kurisu Makise",
+            "results": "Biscuit Krueger (20.0%) vs Kurisu Makise (80.0%)",
+            "total_votes": 15
+        },
+        {
+            "match": "Round of 64: Hahari Hanazono vs Karane Inda",
+            "results": "Hahari Hanazono (28.6%) vs Karane Inda (71.4%)",
+            "total_votes": 14
+        },
+        {
+            "match": "Round of 64: Mai Sakurajima vs Akari Kawamoto",
+            "results": "Mai Sakurajima (87.5%) vs Akari Kawamoto (12.5%)",
+            "total_votes": 16
+        },
+        {
+            "match": "Round of 64: Violet Evergarden vs Leina Vance",
+            "results": "Violet Evergarden (70.6%) vs Leina Vance (29.4%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 64: Darkness vs Faye Valentine",
+            "results": "Darkness (52.9%) vs Faye Valentine (47.1%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 64: Mikasa Ackerman vs Suomi KP-31",
+            "results": "Mikasa Ackerman (47.1%) vs Suomi KP-31 (52.9%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 64: Reanette Elfelt vs Marin Kitagawa",
+            "results": "Reanette Elfelt (25.0%) vs Marin Kitagawa (75.0%)",
+            "total_votes": 16
+        },
+        {
+            "match": "Round of 64: Saber vs Maia Mizuki",
+            "results": "Saber (68.4%) vs Maia Mizuki (31.6%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 64: Ririna Sanada vs Hitagi Senjougahara",
+            "results": "Ririna Sanada (26.7%) vs Hitagi Senjougahara (73.3%)",
+            "total_votes": 15
+        },
+        {
+            "match": "Round of 64: Mikoto Misaka vs Mireille Bouquet",
+            "results": "Mikoto Misaka (38.9%) vs Mireille Bouquet (61.1%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round of 64: Haruko Haruhara vs Lieselotte Sherlock",
+            "results": "Haruko Haruhara (29.4%) vs Lieselotte Sherlock (70.6%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 64: Kumiko Oumae vs Sylphiette",
+            "results": "Kumiko Oumae (47.1%) vs Sylphiette (52.9%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 64: Seiko Ayase vs Cornelia li Britannia",
+            "results": "Seiko Ayase (56.2%) vs Cornelia li Britannia (43.8%)",
+            "total_votes": 16
+        },
+        {
+            "match": "Round of 64: Satsuki Kiryuuin vs Dita Liebely",
+            "results": "Satsuki Kiryuuin (64.3%) vs Dita Liebely (35.7%)",
+            "total_votes": 14
+        },
+        {
+            "match": "Round of 64: Yoshino Somei vs Rem",
+            "results": "Yoshino Somei (47.1%) vs Rem (52.9%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 64: Karen vs Akane Kurokawa",
+            "results": "Karen (35.7%) vs Akane Kurokawa (64.3%)",
+            "total_votes": 14
+        },
+        {
+            "match": "Round of 64: Akeno Himejima vs Ai Hoshino",
+            "results": "Akeno Himejima (50.0%) vs Ai Hoshino (50.0%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round of 64: Shinobu Oshino vs Kurumi Tokisaki",
+            "results": "Shinobu Oshino (47.1%) vs Kurumi Tokisaki (52.9%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 64: Sayaka Miki vs Diane",
+            "results": "Sayaka Miki (46.2%) vs Diane (53.8%)",
+            "total_votes": 13
+        },
+        {
+            "match": "Round of 64: Revy vs Akina Kubo",
+            "results": "Revy (64.7%) vs Akina Kubo (35.3%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 32: Robin Nico vs Emilia",
+            "results": "Robin Nico (57.9%) vs Emilia (42.1%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 32: Rin Tohsaka vs C.C.",
+            "results": "Rin Tohsaka (52.9%) vs C.C. (47.1%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 32: Ai Hayasaka vs Yuuko Ichihara",
+            "results": "Ai Hayasaka (68.8%) vs Yuuko Ichihara (31.2%)",
+            "total_votes": 16
+        },
+        {
+            "match": "Round of 32: Yor Forger vs Minako Aino",
+            "results": "Yor Forger (52.9%) vs Minako Aino (47.1%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 32: Anna Yanami vs Yoruichi Shihouin",
+            "results": "Anna Yanami (56.2%) vs Yoruichi Shihouin (43.8%)",
+            "total_votes": 16
+        },
+        {
+            "match": "Round of 32: Makima vs Esdeath",
+            "results": "Makima (46.7%) vs Esdeath (53.3%)",
+            "total_votes": 15
+        },
+        {
+            "match": "Round of 32: Kurisu Makise vs Karane Inda",
+            "results": "Kurisu Makise (58.8%) vs Karane Inda (41.2%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 32: Mai Sakurajima vs Violet Evergarden",
+            "results": "Mai Sakurajima (64.7%) vs Violet Evergarden (35.3%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 32: Darkness vs Suomi KP-31",
+            "results": "Darkness (76.5%) vs Suomi KP-31 (23.5%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 32: Marin Kitagawa vs Saber",
+            "results": "Marin Kitagawa (50.0%) vs Saber (50.0%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round of 32: Hitagi Senjougahara vs Mireille Bouquet",
+            "results": "Hitagi Senjougahara (62.5%) vs Mireille Bouquet (37.5%)",
+            "total_votes": 16
+        },
+        {
+            "match": "Round of 32: Lieselotte Sherlock vs Sylphiette",
+            "results": "Lieselotte Sherlock (62.5%) vs Sylphiette (37.5%)",
+            "total_votes": 16
+        },
+        {
+            "match": "Round of 32: Seiko Ayase vs Satsuki Kiryuuin",
+            "results": "Seiko Ayase (40.0%) vs Satsuki Kiryuuin (60.0%)",
+            "total_votes": 15
+        },
+        {
+            "match": "Round of 32: Rem vs Akane Kurokawa",
+            "results": "Rem (38.9%) vs Akane Kurokawa (61.1%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round of 32: Ai Hoshino vs Kurumi Tokisaki",
+            "results": "Ai Hoshino (58.8%) vs Kurumi Tokisaki (41.2%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 32: Diane vs Revy",
+            "results": "Diane (13.3%) vs Revy (86.7%)",
+            "total_votes": 15
+        },
+        {
+            "match": "Round of 16: Robin Nico vs Rin Tohsaka",
+            "results": "Robin Nico (42.1%) vs Rin Tohsaka (57.9%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 16: Ai Hayasaka vs Yor Forger",
+            "results": "Ai Hayasaka (60.0%) vs Yor Forger (40.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 16: Anna Yanami vs Makima",
+            "results": "Anna Yanami (57.9%) vs Makima (42.1%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 16: Kurisu Makise vs Mai Sakurajima",
+            "results": "Kurisu Makise (52.6%) vs Mai Sakurajima (47.4%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 16: Darkness vs Marin Kitagawa",
+            "results": "Darkness (52.6%) vs Marin Kitagawa (47.4%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 16: Hitagi Senjougahara vs Lieselotte Sherlock",
+            "results": "Hitagi Senjougahara (52.6%) vs Lieselotte Sherlock (47.4%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 16: Satsuki Kiryuuin vs Akane Kurokawa",
+            "results": "Satsuki Kiryuuin (52.6%) vs Akane Kurokawa (47.4%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 16: Ai Hoshino vs Revy",
+            "results": "Ai Hoshino (35.0%) vs Revy (65.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Quarter-Finals: Rin Tohsaka vs Ai Hayasaka",
+            "results": "Rin Tohsaka (50.0%) vs Ai Hayasaka (50.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Quarter-Finals: Anna Yanami vs Mai Sakurajima",
+            "results": "Anna Yanami (47.4%) vs Mai Sakurajima (52.6%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Quarter-Finals: Darkness vs Hitagi Senjougahara",
+            "results": "Darkness (80.0%) vs Hitagi Senjougahara (20.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Quarter-Finals: Satsuki Kiryuuin vs Revy",
+            "results": "Satsuki Kiryuuin (42.1%) vs Revy (57.9%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Semi-Finals: Rin Tohsaka vs Mai Sakurajima",
+            "results": "Rin Tohsaka (35.0%) vs Mai Sakurajima (65.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Semi-Finals: Darkness vs Revy",
+            "results": "Darkness (61.9%) vs Revy (38.1%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Finals: Mai Sakurajima vs Darkness",
+            "results": "Mai Sakurajima (36.8%) vs Darkness (63.2%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Finals: Rin Tohsaka vs Revy",
+            "results": "Rin Tohsaka (73.7%) vs Revy (26.3%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round: Character_A vs Character_B",
+            "results": "Character_A (0.0%) vs Character_B (0.0%)",
+            "total_votes": 1
+        },
+        {
+            "match": "Round 1: Ann Halford vs Akane Kurokawa",
+            "results": "Ann Halford (47.4%) vs Akane Kurokawa (52.6%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round 1: Gold Ship vs Shiki Ryougi",
+            "results": "Gold Ship (31.6%) vs Shiki Ryougi (68.4%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round 1: Chiaki Nanami vs Rem",
+            "results": "Chiaki Nanami (47.6%) vs Rem (52.4%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round 1: Sylphiette vs Anna Kushina",
+            "results": "Sylphiette (61.1%) vs Anna Kushina (38.9%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round 1: Formidable vs Alisha Diphda",
+            "results": "Formidable (72.2%) vs Alisha Diphda (27.8%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round 1: Kirari Moroboshi vs Mt. Lady",
+            "results": "Kirari Moroboshi (58.8%) vs Mt. Lady (41.2%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round 1: Ozen vs Tionishia",
+            "results": "Ozen (56.2%) vs Tionishia (43.8%)",
+            "total_votes": 16
+        },
+        {
+            "match": "Round 1: Megumin vs Lisa Lisa",
+            "results": "Megumin (70.0%) vs Lisa Lisa (30.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round 1: Perona vs Rias Gremory",
+            "results": "Perona (15.8%) vs Rias Gremory (84.2%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round 1: Ishtar vs Maomao",
+            "results": "Ishtar (47.6%) vs Maomao (52.4%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round 1: Holo vs Louise Fran\u00e7oise Le Blanc de La Valli\u00e8re",
+            "results": "Holo (60.0%) vs Louise Fran\u00e7oise Le Blanc de La Valli\u00e8re (40.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round 1: Asuka Langley Souryuu vs Suzuha Amane",
+            "results": "Asuka Langley Souryuu (52.6%) vs Suzuha Amane (47.4%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round 1: Saya Takagi vs Vladilena Miliz\u00e9",
+            "results": "Saya Takagi (38.9%) vs Vladilena Miliz\u00e9 (61.1%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round 1: Kyouko Hori vs Ai Ooto",
+            "results": "Kyouko Hori (55.6%) vs Ai Ooto (44.4%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round 1: Chitoge Kirisaki vs Claudette Vance",
+            "results": "Chitoge Kirisaki (72.2%) vs Claudette Vance (27.8%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round 1: Noi vs Chris Yukine",
+            "results": "Noi (58.8%) vs Chris Yukine (41.2%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 128: Medaka Kurokami vs Akane Kurokawa",
+            "results": "Medaka Kurokami (70.0%) vs Akane Kurokawa (30.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 128: Naori Jinguuji vs Reona Kisaragi",
+            "results": "Naori Jinguuji (27.8%) vs Reona Kisaragi (72.2%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round of 128: Kouko Kaga vs Rin Nanakura",
+            "results": "Kouko Kaga (47.1%) vs Rin Nanakura (52.9%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 128: Wiz vs Re-l Mayer",
+            "results": "Wiz (71.4%) vs Re-l Mayer (28.6%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 128: Boa Hancock vs Shiki Ryougi",
+            "results": "Boa Hancock (55.0%) vs Shiki Ryougi (45.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 128: Kaori Miyazono vs Leina Vance",
+            "results": "Kaori Miyazono (31.6%) vs Leina Vance (68.4%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: Miku Nakano vs Xenovia Quarta",
+            "results": "Miku Nakano (68.4%) vs Xenovia Quarta (31.6%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: Kuroyukihime vs Rukia Kuchiki",
+            "results": "Kuroyukihime (52.6%) vs Rukia Kuchiki (47.4%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: Ai Hayasaka vs Rem",
+            "results": "Ai Hayasaka (60.0%) vs Rem (40.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 128: Mashiro Shiina vs Hildegard von Mariendorf",
+            "results": "Mashiro Shiina (75.0%) vs Hildegard von Mariendorf (25.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 128: Cattleya vs Nao Tomori",
+            "results": "Cattleya (15.8%) vs Nao Tomori (84.2%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: Ai Haibara vs Saber",
+            "results": "Ai Haibara (5.0%) vs Saber (95.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 128: Toyone Anetai vs Sylphiette",
+            "results": "Toyone Anetai (30.0%) vs Sylphiette (70.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 128: Saeko Busujima vs Usagi Tsukino",
+            "results": "Saeko Busujima (61.1%) vs Usagi Tsukino (38.9%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round of 128: Togame vs Yuno Gasai",
+            "results": "Togame (36.8%) vs Yuno Gasai (63.2%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: Ayano Tateyama vs Tomoyo Sakagami",
+            "results": "Ayano Tateyama (55.6%) vs Tomoyo Sakagami (44.4%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round of 128: Yuri vs Formidable",
+            "results": "Yuri (42.1%) vs Formidable (57.9%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: Kurisu Makise vs Shinoa Hiiragi",
+            "results": "Kurisu Makise (66.7%) vs Shinoa Hiiragi (33.3%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 128: Catherine Bloom vs Mihari Oyama",
+            "results": "Catherine Bloom (56.2%) vs Mihari Oyama (43.8%)",
+            "total_votes": 16
+        },
+        {
+            "match": "Round of 128: Marin Kitagawa vs Rebecca",
+            "results": "Marin Kitagawa (75.0%) vs Rebecca (25.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 128: Power vs Kirari Moroboshi",
+            "results": "Power (52.6%) vs Kirari Moroboshi (47.4%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: Kurumi Tokisaki vs Kaguya Shinomiya",
+            "results": "Kurumi Tokisaki (66.7%) vs Kaguya Shinomiya (33.3%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 128: Chika Komari vs Vanessa Enoteca",
+            "results": "Chika Komari (64.7%) vs Vanessa Enoteca (35.3%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 128: Angelise Ikaruga Misurugi vs Alex Benedetto",
+            "results": "Angelise Ikaruga Misurugi (82.4%) vs Alex Benedetto (17.6%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 128: Yuki Suou vs Ozen",
+            "results": "Yuki Suou (66.7%) vs Ozen (33.3%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round of 128: Chisa Kotegawa vs Mahiru Shiina",
+            "results": "Chisa Kotegawa (42.1%) vs Mahiru Shiina (57.9%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: Kazuki Kazami vs Amira",
+            "results": "Kazuki Kazami (62.5%) vs Amira (37.5%)",
+            "total_votes": 16
+        },
+        {
+            "match": "Round of 128: Balsa Yonsa vs Akane Tsunemori",
+            "results": "Balsa Yonsa (22.2%) vs Akane Tsunemori (77.8%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round of 128: Yor Forger vs Megumin",
+            "results": "Yor Forger (50.0%) vs Megumin (50.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 128: Akari Kawamoto vs Esdeath",
+            "results": "Akari Kawamoto (35.0%) vs Esdeath (65.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 128: Celty Sturluson vs Momo Belia Deviluke",
+            "results": "Celty Sturluson (40.0%) vs Momo Belia Deviluke (60.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 128: Haruka Hanabishi vs Ana",
+            "results": "Haruka Hanabishi (77.8%) vs Ana (22.2%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round of 128: Sonoshee McLaren vs Rias Gremory",
+            "results": "Sonoshee McLaren (40.0%) vs Rias Gremory (60.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 128: Mikako Satsukitane vs Hitagi Senjougahara",
+            "results": "Mikako Satsukitane (26.3%) vs Hitagi Senjougahara (73.7%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: Vermeil vs Fujiko Mine",
+            "results": "Vermeil (41.2%) vs Fujiko Mine (58.8%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 128: Kaoruko Waguri vs Ryou Yamada",
+            "results": "Kaoruko Waguri (44.4%) vs Ryou Yamada (55.6%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round of 128: Katejina Loos vs Maomao",
+            "results": "Katejina Loos (15.8%) vs Maomao (84.2%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: Lemon Yakishio vs Reanette Elfelt",
+            "results": "Lemon Yakishio (55.6%) vs Reanette Elfelt (44.4%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round of 128: Minako Aino vs Yuzuru Yamai",
+            "results": "Minako Aino (57.9%) vs Yuzuru Yamai (42.1%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: Diane vs Miyako Saitou",
+            "results": "Diane (42.1%) vs Miyako Saitou (57.9%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: Kana Arima vs Holo",
+            "results": "Kana Arima (45.0%) vs Holo (55.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 128: Echidna vs Zero Two",
+            "results": "Echidna (36.8%) vs Zero Two (63.2%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: C.C. vs June Chameleon",
+            "results": "C.C. (76.2%) vs June Chameleon (23.8%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 128: Mikoto Misaka vs Nino Nakano",
+            "results": "Mikoto Misaka (50.0%) vs Nino Nakano (50.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 128: Faye Valentine vs Suzuha Amane",
+            "results": "Faye Valentine (61.1%) vs Suzuha Amane (38.9%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round of 128: Akari Watanabe vs Nadeko Sengoku",
+            "results": "Akari Watanabe (65.0%) vs Nadeko Sengoku (35.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 128: Shinobu Oshino vs Vivi Nefertari",
+            "results": "Shinobu Oshino (75.0%) vs Vivi Nefertari (25.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 128: Android 18 vs Mizuho Yuuki",
+            "results": "Android 18 (57.9%) vs Mizuho Yuuki (42.1%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: Tomo Yamanobe vs Vladilena Miliz\u00e9",
+            "results": "Tomo Yamanobe (52.6%) vs Vladilena Miliz\u00e9 (47.4%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: Ameri Azazel vs Hinata Hyuuga",
+            "results": "Ameri Azazel (57.9%) vs Hinata Hyuuga (42.1%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: Risty vs Misato Katsuragi",
+            "results": "Risty (25.0%) vs Misato Katsuragi (75.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 128: Yuki Nagato vs Nico Yazawa",
+            "results": "Yuki Nagato (47.4%) vs Nico Yazawa (52.6%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: Beatrice vs Kyouko Hori",
+            "results": "Beatrice (38.1%) vs Kyouko Hori (61.9%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 128: Tomo Aizawa vs Lieselotte Sherlock",
+            "results": "Tomo Aizawa (42.1%) vs Lieselotte Sherlock (57.9%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: Tsubasa Hanekawa vs Shouko Nishimiya",
+            "results": "Tsubasa Hanekawa (65.0%) vs Shouko Nishimiya (35.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 128: Rei Ayanami vs Shinku",
+            "results": "Rei Ayanami (65.0%) vs Shinku (35.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 128: Alina Clover vs Chitoge Kirisaki",
+            "results": "Alina Clover (41.2%) vs Chitoge Kirisaki (58.8%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 128: Erza Scarlet vs Chizuru Ichinose",
+            "results": "Erza Scarlet (73.7%) vs Chizuru Ichinose (26.3%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: Anna Yamada vs Alicia Florence",
+            "results": "Anna Yamada (63.2%) vs Alicia Florence (36.8%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: Anna Yanami vs Makima",
+            "results": "Anna Yanami (52.9%) vs Makima (47.1%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 128: Konan vs Noi",
+            "results": "Konan (45.0%) vs Noi (55.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 128: Jolyne Kuujou vs Akira Yamamoto",
+            "results": "Jolyne Kuujou (31.6%) vs Akira Yamamoto (68.4%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 128: Leonmitchelli Galette des Rois vs Yui Yuigahama",
+            "results": "Leonmitchelli Galette des Rois (30.0%) vs Yui Yuigahama (70.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 128: Chisato Nishikigi vs Nagisa Furukawa",
+            "results": "Chisato Nishikigi (42.1%) vs Nagisa Furukawa (57.9%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 64: Medaka Kurokami vs Reona Kisaragi",
+            "results": "Medaka Kurokami (60.0%) vs Reona Kisaragi (40.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 64: Rin Nanakura vs Wiz",
+            "results": "Rin Nanakura (60.0%) vs Wiz (40.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 64: Boa Hancock vs Leina Vance",
+            "results": "Boa Hancock (45.0%) vs Leina Vance (55.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 64: Miku Nakano vs Kuroyukihime",
+            "results": "Miku Nakano (55.0%) vs Kuroyukihime (45.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 64: Ai Hayasaka vs Mashiro Shiina",
+            "results": "Ai Hayasaka (50.0%) vs Mashiro Shiina (50.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 64: Nao Tomori vs Saber",
+            "results": "Nao Tomori (42.1%) vs Saber (57.9%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 64: Sylphiette vs Saeko Busujima",
+            "results": "Sylphiette (40.0%) vs Saeko Busujima (60.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 64: Yuno Gasai vs Ayano Tateyama",
+            "results": "Yuno Gasai (57.9%) vs Ayano Tateyama (42.1%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 64: Formidable vs Kurisu Makise",
+            "results": "Formidable (45.0%) vs Kurisu Makise (55.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 64: Catherine Bloom vs Marin Kitagawa",
+            "results": "Catherine Bloom (21.1%) vs Marin Kitagawa (78.9%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 64: Power vs Kurumi Tokisaki",
+            "results": "Power (35.0%) vs Kurumi Tokisaki (65.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 64: Chika Komari vs Angelise Ikaruga Misurugi",
+            "results": "Chika Komari (55.6%) vs Angelise Ikaruga Misurugi (44.4%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round of 64: Yuki Suou vs Mahiru Shiina",
+            "results": "Yuki Suou (50.0%) vs Mahiru Shiina (50.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 64: Kazuki Kazami vs Akane Tsunemori",
+            "results": "Kazuki Kazami (52.6%) vs Akane Tsunemori (47.4%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 64: Yor Forger vs Esdeath",
+            "results": "Yor Forger (70.0%) vs Esdeath (30.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 64: Momo Belia Deviluke vs Haruka Hanabishi",
+            "results": "Momo Belia Deviluke (50.0%) vs Haruka Hanabishi (50.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 64: Rias Gremory vs Hitagi Senjougahara",
+            "results": "Rias Gremory (45.0%) vs Hitagi Senjougahara (55.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 64: Fujiko Mine vs Ryou Yamada",
+            "results": "Fujiko Mine (42.1%) vs Ryou Yamada (57.9%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 64: Maomao vs Lemon Yakishio",
+            "results": "Maomao (42.1%) vs Lemon Yakishio (57.9%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 64: Minako Aino vs Miyako Saitou",
+            "results": "Minako Aino (61.1%) vs Miyako Saitou (38.9%)",
+            "total_votes": 18
+        },
+        {
+            "match": "Round of 64: Holo vs Zero Two",
+            "results": "Holo (70.0%) vs Zero Two (30.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 64: C.C. vs Nino Nakano",
+            "results": "C.C. (40.0%) vs Nino Nakano (60.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 64: Faye Valentine vs Akari Watanabe",
+            "results": "Faye Valentine (52.6%) vs Akari Watanabe (47.4%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 64: Shinobu Oshino vs Android 18",
+            "results": "Shinobu Oshino (50.0%) vs Android 18 (50.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 64: Tomo Yamanobe vs Ameri Azazel",
+            "results": "Tomo Yamanobe (52.9%) vs Ameri Azazel (47.1%)",
+            "total_votes": 17
+        },
+        {
+            "match": "Round of 64: Misato Katsuragi vs Nico Yazawa",
+            "results": "Misato Katsuragi (60.0%) vs Nico Yazawa (40.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 64: Kyouko Hori vs Lieselotte Sherlock",
+            "results": "Kyouko Hori (40.0%) vs Lieselotte Sherlock (60.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 64: Tsubasa Hanekawa vs Rei Ayanami",
+            "results": "Tsubasa Hanekawa (50.0%) vs Rei Ayanami (50.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 64: Chitoge Kirisaki vs Erza Scarlet",
+            "results": "Chitoge Kirisaki (42.1%) vs Erza Scarlet (57.9%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 64: Anna Yamada vs Anna Yanami",
+            "results": "Anna Yamada (45.0%) vs Anna Yanami (55.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 64: Noi vs Akira Yamamoto",
+            "results": "Noi (42.1%) vs Akira Yamamoto (57.9%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 64: Yui Yuigahama vs Nagisa Furukawa",
+            "results": "Yui Yuigahama (55.0%) vs Nagisa Furukawa (45.0%)",
+            "total_votes": 20
+        },
+        {
+            "match": "Round of 32: Medaka Kurokami vs Rin Nanakura",
+            "results": "Medaka Kurokami (61.9%) vs Rin Nanakura (38.1%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 32: Leina Vance vs Miku Nakano",
+            "results": "Leina Vance (42.9%) vs Miku Nakano (57.1%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 32: Mashiro Shiina vs Saber",
+            "results": "Mashiro Shiina (52.4%) vs Saber (47.6%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 32: Saeko Busujima vs Yuno Gasai",
+            "results": "Saeko Busujima (52.4%) vs Yuno Gasai (47.6%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 32: Kurisu Makise vs Marin Kitagawa",
+            "results": "Kurisu Makise (28.6%) vs Marin Kitagawa (71.4%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 32: Kurumi Tokisaki vs Angelise Ikaruga Misurugi",
+            "results": "Kurumi Tokisaki (66.7%) vs Angelise Ikaruga Misurugi (33.3%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 32: Yuki Suou vs Kazuki Kazami",
+            "results": "Yuki Suou (61.9%) vs Kazuki Kazami (38.1%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 32: Yor Forger vs Momo Belia Deviluke",
+            "results": "Yor Forger (66.7%) vs Momo Belia Deviluke (33.3%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 32: Hitagi Senjougahara vs Ryou Yamada",
+            "results": "Hitagi Senjougahara (57.1%) vs Ryou Yamada (42.9%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 32: Maomao vs Minako Aino",
+            "results": "Maomao (57.1%) vs Minako Aino (42.9%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 32: Holo vs C.C.",
+            "results": "Holo (71.4%) vs C.C. (28.6%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 32: Faye Valentine vs Shinobu Oshino",
+            "results": "Faye Valentine (52.4%) vs Shinobu Oshino (47.6%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 32: Tomo Yamanobe vs Misato Katsuragi",
+            "results": "Tomo Yamanobe (42.9%) vs Misato Katsuragi (57.1%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 32: Lieselotte Sherlock vs Rei Ayanami",
+            "results": "Lieselotte Sherlock (71.4%) vs Rei Ayanami (28.6%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 32: Erza Scarlet vs Anna Yanami",
+            "results": "Erza Scarlet (57.9%) vs Anna Yanami (42.1%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Round of 32: Akira Yamamoto vs Yui Yuigahama",
+            "results": "Akira Yamamoto (33.3%) vs Yui Yuigahama (66.7%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 16: Medaka Kurokami vs Miku Nakano",
+            "results": "Medaka Kurokami (50.0%) vs Miku Nakano (50.0%)",
+            "total_votes": 22
+        },
+        {
+            "match": "Round of 16: Saber vs Saeko Busujima",
+            "results": "Saber (47.6%) vs Saeko Busujima (52.4%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 16: Marin Kitagawa vs Kurumi Tokisaki",
+            "results": "Marin Kitagawa (59.1%) vs Kurumi Tokisaki (40.9%)",
+            "total_votes": 22
+        },
+        {
+            "match": "Round of 16: Yuki Suou vs Yor Forger",
+            "results": "Yuki Suou (50.0%) vs Yor Forger (50.0%)",
+            "total_votes": 22
+        },
+        {
+            "match": "Round of 16: Hitagi Senjougahara vs Maomao",
+            "results": "Hitagi Senjougahara (50.0%) vs Maomao (50.0%)",
+            "total_votes": 22
+        },
+        {
+            "match": "Round of 16: Holo vs Faye Valentine",
+            "results": "Holo (47.6%) vs Faye Valentine (52.4%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Round of 16: Misato Katsuragi vs Lieselotte Sherlock",
+            "results": "Misato Katsuragi (50.0%) vs Lieselotte Sherlock (50.0%)",
+            "total_votes": 22
+        },
+        {
+            "match": "Round of 16: Erza Scarlet vs Yui Yuigahama",
+            "results": "Erza Scarlet (47.6%) vs Yui Yuigahama (52.4%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Quarterfinals: Medaka Kurokami vs Saeko Busujima",
+            "results": "Medaka Kurokami (59.1%) vs Saeko Busujima (40.9%)",
+            "total_votes": 22
+        },
+        {
+            "match": "Quarterfinals: Marin Kitagawa vs Yor Forger",
+            "results": "Marin Kitagawa (73.9%) vs Yor Forger (26.1%)",
+            "total_votes": 23
+        },
+        {
+            "match": "Quarterfinals: Hitagi Senjougahara vs Faye Valentine",
+            "results": "Hitagi Senjougahara (41.7%) vs Faye Valentine (58.3%)",
+            "total_votes": 24
+        },
+        {
+            "match": "Quarterfinals: Misato Katsuragi vs Erza Scarlet",
+            "results": "Misato Katsuragi (54.2%) vs Erza Scarlet (45.8%)",
+            "total_votes": 24
+        },
+        {
+            "match": "Semifinals: Medaka Kurokami vs Marin Kitagawa",
+            "results": "Medaka Kurokami (28.6%) vs Marin Kitagawa (71.4%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Semifinals: Faye Valentine vs Misato Katsuragi",
+            "results": "Faye Valentine (42.1%) vs Misato Katsuragi (57.9%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Finals: Marin Kitagawa vs Misato Katsuragi",
+            "results": "Marin Kitagawa (59.1%) vs Misato Katsuragi (40.9%)",
+            "total_votes": 22
+        },
+        {
+            "match": "Finals: Medaka Kurokami vs Faye Valentine",
+            "results": "Medaka Kurokami (38.1%) vs Faye Valentine (61.9%)",
+            "total_votes": 21
+        },
+        {
+            "match": "Queen Finals: Darkness vs Marin Kitagawa",
+            "results": "Darkness (47.4%) vs Marin Kitagawa (52.6%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Queen Finals: Mai Sakurajima vs Misato Katsuragi",
+            "results": "Mai Sakurajima (57.9%) vs Misato Katsuragi (42.1%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Queen Finals: Rin Tohsaka vs Faye Valentine",
+            "results": "Rin Tohsaka (57.9%) vs Faye Valentine (42.1%)",
+            "total_votes": 19
+        },
+        {
+            "match": "Queen Finals: Revy vs Medaka Kurokami",
+            "results": "Revy (50.0%) vs Medaka Kurokami (50.0%)",
+            "total_votes": 20
+        }
+    ],
     "characters": [
         {
             "character": "Marin Kitagawa",
