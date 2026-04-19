@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Waifu War Analytics</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f4f9; color: #333; margin: 0; padding: 20px; }
+        h1, h2 { color: #2c3e50; }
+        .container { max-width: 1000px; margin: auto; }
+        table { width: 100%; border-collapse: collapse; margin-bottom: 30px; background: white; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #ddd; }
+        th { background-color: #3498db; color: white; }
+        tr:hover { background-color: #f1f1f1; }
+        select { padding: 8px; margin-bottom: 15px; font-size: 16px; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Waifu War Analytics Dashboard</h1>
+
+    <h2>🏆 Overall Character Vote Rates</h2>
+    <table id="char-table">
+        <tr><th>Character</th><th>Overall Vote %</th><th>Total Votes Received</th></tr>
+    </table>
+
+    <h2>⚔️ Matchup Results</h2>
+    <table id="match-table">
+        <tr><th>Matchup</th><th>Results</th><th>Total Valid Votes</th></tr>
+    </table>
+
+    <h2>👤 User Loyalty Checker</h2>
+    <label for="user-select">Select a User: </label>
+    <select id="user-select"><option value="">-- Choose User --</option></select>
+    
+    <table id="loyalty-table">
+        <tr><th>Character</th><th>Loyalty Rate (%)</th><th>Times Voted / Times Offered</th></tr>
+    </table>
+</div>
+
+<script>
+    fetch('results.json')
+        .then(response => response.json())
+        .then(data => {
+            // Populate Character Table
+            const charTable = document.getElementById('char-table');
+            data.characters.forEach(char => {
+                charTable.innerHTML += `<tr><td>${char.character}</td><td><strong>${char.vote_rate}</strong></td><td>${char.votes_received}</td></tr>`;
+            });
+
+            // Populate Matchup Table
+            const matchTable = document.getElementById('match-table');
+            data.matchups.forEach(match => {
+                matchTable.innerHTML += `<tr><td>${match.match}</td><td>${match.results}</td><td>${match.total_votes}</td></tr>`;
+            });
+
+            // Populate User Dropdown for Loyalty Tracker
+            const userSelect = document.getElementById('user-select');
+            const loyaltyTable = document.getElementById('loyalty-table');
+            
+            Object.keys(data.user_loyalty).sort().forEach(user => {
+                userSelect.innerHTML += `<option value="${user}">${user}</option>`;
+            });
+
+            // Update Loyalty table when a user is selected
+            userSelect.addEventListener('change', function() {
+                const selectedUser = this.value;
+                // Reset table header
+                loyaltyTable.innerHTML = `<tr><th>Character</th><th>Loyalty Rate (%)</th><th>Times Voted / Times Offered</th></tr>`;
+                
+                if(selectedUser) {
+                    // Sort user loyalty from highest to lowest %
+                    const sortedLoyalty = data.user_loyalty[selectedUser].sort((a, b) => parseFloat(b.loyalty) - parseFloat(a.loyalty));
+                    
+                    sortedLoyalty.forEach(stat => {
+                        loyaltyTable.innerHTML += `<tr><td>${stat.character}</td><td><strong>${stat.loyalty}</strong></td><td>${stat.times_voted}</td></tr>`;
+                    });
+                }
+            });
+        });
+</script>
+
+</body>
+</html>
